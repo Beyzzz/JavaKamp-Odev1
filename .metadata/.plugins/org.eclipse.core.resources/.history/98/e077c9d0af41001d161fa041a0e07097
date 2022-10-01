@@ -1,0 +1,23 @@
+
+public class SayiBulma {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+     int[] sayilar = new int[] {1,2,5,7,9,0};
+     int aranacakSayi = 5;
+     boolean varMi= false;
+     for(int sayi : sayilar) {
+    	 if(aranacakSayi==sayi) {
+    		 varMi= true;
+    		 break;
+    	 }
+     }
+     if(varMi) {
+    	 System.out.println("sayi mevcut");
+     }
+     else {
+    	 System.out.println("sayi mevcut değildir");
+     }
+	}
+
+}

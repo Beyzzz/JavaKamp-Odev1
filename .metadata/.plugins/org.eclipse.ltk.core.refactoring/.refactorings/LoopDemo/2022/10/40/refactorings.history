@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ForDongusu&apos; to &apos;Donguler&apos;&#x0D;&#x0A;- Original project: &apos;LoopDemo&apos;&#x0D;&#x0A;- Original element: &apos;ForDongusu&apos;&#x0D;&#x0A;- Renamed element: &apos;Donguler&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ForDongusu&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{ForDongusu.java[ForDongusu" matchStrategy="1" name="Donguler" qualified="false" references="true" similarDeclarations="false" stamp="1664629962443" textual="false" version="1.0"/>
+</session>
